@@ -10,3 +10,4 @@
 | S. No. | Codeforces Round | Link | Participation Date | Type |
 |-|-|-|-|-|
 | 1. | ${\color{lightgreen} Round \space 966 \space Div \space III}$ | [Link](https://github.com/VishuKalier2003/Codeforces/blob/main/Round966DivIII/readme.md)  | $${10th \space Nov, \space 2024}$$ | ${\color{lightblue}Virtual}$ |
+| 2. | ${\color{lightgreen} Round \space 964 \space Div \space IV}$ | [Link](https://github.com/VishuKalier2003/Codeforces/blob/main/Round964DivIV/readme.md) | $${11th \space Nov, \space 2024}$$ | ${\color{lightblue} Virtual}$ |
